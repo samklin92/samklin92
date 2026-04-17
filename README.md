@@ -9,6 +9,8 @@ GitHub: https://github.com/samklin92
 
 CLOUD AND DEVOPS ENGINEER  
 Terraform | AWS EKS | Kubernetes | GitOps | CI/CD | DevSecOps  
+<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/d41f5406-4c6a-452d-9b8a-7996ec4437ec" />
+
 
 ---------------------------------------------------------------------
 
