@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Samuel 👋
+# Hi, I'm Ogaji Igwe Samuel
 ### Cloud & DevOps Engineer
 
 **I build production-ready cloud systems on AWS — automated, secure, and scalable.**
@@ -146,7 +146,7 @@ React (NGINX) → Spring Boot API (JWT) → Amazon RDS MySQL (Multi-AZ, Encrypte
 Built a complete DevOps platform covering infrastructure, deployment automation, service mesh security, and full observability.
 
 **Key achievements:**
-- Provisioned Amazon EKS cluster with Terraform
+- Provisioned an Amazon EKS cluster with Terraform
 - CI/CD pipeline with GitHub Actions (build → push → deploy)
 - Helm charts for Kubernetes package management
 - Istio service mesh with mTLS for secure service-to-service communication
@@ -196,9 +196,7 @@ Automated application deployment on AWS EC2 using Bash scripting and GitHub Acti
 ---
 
 ### 🌐 Portfolio Website with CI/CD
-> *[Rita-Portfolio-website](https://github.com/samklin92)*
-
-Hosted and automated deployment of portfolio website using AWS S3 + GitHub Actions — updates deploy automatically on every push to main.
+> *(https://github.com/samklin92)*
 
 ---
 
